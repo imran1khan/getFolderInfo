@@ -15,11 +15,11 @@ so if you are fasing the same issue, feel free to use this.
 
 # how to use this in your project
 
-```
+```shell
 npm i getjsonfromfolder
 ```
 
-```
+```ts
 import {makeJsonFile,seeFiles2} from "getjsonfromfolder";
 
 const folderPath = `D:\\VS_code\\youtubeProject2\\twitterBot\\twitterBot_Backend` //the folder that you want to check
